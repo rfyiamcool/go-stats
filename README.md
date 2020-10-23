@@ -1,9 +1,11 @@
 # stats
 
-*****stats base on golang prometheus client**
+**stats base on golang prometheus client**
 
 * essy api
 * support gin middleware, fix dymamic params in url
+
+![stats.png](stats.png)
 
 ### methods
 
